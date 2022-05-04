@@ -1,2 +1,2 @@
 # Curriculum Vitae
-Hoja de Vida de Jonatan S. Vergara B.
+Hoja de vida de Jonatan S. Vergara B.
