@@ -1,0 +1,14 @@
+body{
+    background-color: #EEEEEE;
+    color: #393E46;
+}
+hr{
+    border-style: none;
+    background-color: #222831;
+    height: 2px;
+    width: 80%;
+}
+
+h1, h2, h3 {
+    color: #00ADB5;
+}
